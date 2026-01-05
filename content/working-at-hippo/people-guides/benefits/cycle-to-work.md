@@ -19,6 +19,8 @@ Cycle to Work is a government initiative which offers the most cost-effective wa
 
 All permanent hippos, once they have been employed for six months.
 
+&#x20;&#x20;
+
 ### How do I apply?
 
 1. Have a look at bikes in your preferred shop and decide which you'd like to purchase.
