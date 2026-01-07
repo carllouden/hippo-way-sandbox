@@ -10,8 +10,8 @@ tags:
 back:
   - /contributing-to-the-wiki#creating-content-for-the-wiki
   - creating content for the Wiki
+isDirectory: false
 ---
-
 <Standout>
   <p>An overview of the custom styles and components supported by the Hippo Wiki to add richer content presentation than standard Markdown.</p>
 </Standout>
@@ -22,7 +22,7 @@ Custom components often have optional parameters that can be used to affect the 
 
 ## Accordion
 
-### Outcome and usage example
+### Outcome and usage example hello
 
 <Accordion>
   <AccordionSection title={"Further reading about this topic"}>
