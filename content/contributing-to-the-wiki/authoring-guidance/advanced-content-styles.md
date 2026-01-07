@@ -1,16 +1,3 @@
----
-id: d3377b2c-2eb7-4da3-a5b6-bfcc9c92b757
-title: Advanced content styles
-order: 2
-tags:
-  - Styleguide
-  - Authoring
-  - Guidance
-  - Contributing
-back:
-  - /contributing-to-the-wiki#creating-content-for-the-wiki
-  - creating content for the Wiki
----
 
 <Standout>
   <p>An overview of the custom styles and components supported by the Hippo Wiki to add richer content presentation than standard Markdown.</p>
