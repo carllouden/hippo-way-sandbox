@@ -15,7 +15,7 @@ isDirectory: false
 ---
 Cycle to Work is a government initiative which offers the most cost-effective way to get new cycling equipment. It means you do not have to pay tax or  national insurance. The reduced cost is then simply deducted out of your payslip over 12, 24 or 36 months. Our cycle to work scheme is through Green Commute.
 
-### Who is eligible for the scheme?
+### Who is eligible for the scheme??
 
 All permanent hippos, once they have been employed for six months.
 
