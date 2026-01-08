@@ -17,6 +17,8 @@ Cycle to Work is a government initiative which offers the most cost-effective wa
 
 ### Who is eligible for the scheme?
 
+[https://wiki.hippodigital.co.uk/some/path](/some/path)
+
 All permanent hippos, once they have been employed for six months.
 
 ### How do I apply?
