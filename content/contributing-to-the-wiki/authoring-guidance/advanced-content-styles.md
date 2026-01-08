@@ -10,6 +10,7 @@ tags:
 back:
   - /contributing-to-the-wiki#creating-content-for-the-wiki
   - creating content for the Wiki
+isDirectory: false
 ---
 
 <Standout>
