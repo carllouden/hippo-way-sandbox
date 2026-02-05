@@ -1,19 +1,4 @@
----
-id: 65282ec0-27f0-444a-af46-4f14ee6b67a0
-title: Cycle to Work scheme
-order: 0
-back:
-  - /working-at-hippo/people-guides#benefits
-  - benefits
-owners:
-  - [The People team, https://hippo-digital.slack.com/archives/D05V5HGBRED]
-tags:
-  - Cycle to work
-reviewed: 29/07/24
-audience: All employees
-isDirectory: false
----
-Cycle to Work is a government initiative which offers the most cost-effective way to get new cycling equipment. It means you do not have to pay tax or  national insurance. The reduced cost is then simply deducted out of your payslip over 12, 24 or 36 months. Our cycle to work scheme is through Green Commute.
+gnghnghnhgnCycle to Work is a government initiative which offers the most cost-effective way to get new cycling equipment. It means you do not have to pay tax or  national insurance. The reduced cost is then simply deducted out of your payslip over 12, 24 or 36 months. Our cycle to work scheme is through Green Commute.
 
 ### Who is eligible for the scheme?
 
